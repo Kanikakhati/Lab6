@@ -1,1 +1,2 @@
 Hello, this is my Lab 6 Git exercise.
+This line was added in the second commit.
